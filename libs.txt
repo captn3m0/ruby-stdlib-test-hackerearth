@@ -6,6 +6,7 @@ cgi
 cmath
 coverage
 csv
+curses
 date
 dbm
 debug
@@ -17,7 +18,6 @@ e2mmap
 English
 erb
 etc
-expect
 extmk
 fcntl
 fiddle
@@ -25,20 +25,22 @@ fileutils
 find
 forwardable
 gdbm
+generator
 getoptlong
 gserver
-io/console
-io/nonblock
+iconv
 io/wait
 ipaddr
 irb
 json
 logger
 mathn
+mathn
 matrix
-minitest
 minitest/benchmark
+minitest/mock
 minitest/spec
+minitest/unit
 mkmf
 monitor
 mutex_m
@@ -91,6 +93,7 @@ sync
 syslog
 tempfile
 test/unit
+thread
 thwait
 time
 timeout
@@ -106,3 +109,5 @@ win32ole
 xmlrpc
 yaml
 zlib
+
+

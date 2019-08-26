@@ -1,4 +1,4 @@
-#hackerearth-ruby-stdlib-test
+# hackerearth-ruby-stdlib-test
 
 This is the result of testing all stdlibs on hackerearth using their API.
 RE is wherever the require failed.
